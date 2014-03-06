@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+ <HEAD>
+  <TITLE>Index of /~jm_claus/jsmol/j2s/J/util</TITLE>
+ </HEAD>
+ <BODY>
+<H1>Index of /~jm_claus/jsmol/j2s/J/util</H1>
+<PRE><IMG SRC="/icons/blank.gif" ALT="     "> <A HREF="?N=A">Name</A>                    <A HREF="?M=A">Last modified</A>       <A HREF="?S=A">Size</A>  <A HREF="?D=A">Description</A>
+<HR>
+<IMG SRC="/icons/back.gif" ALT="[DIR]"> <A HREF="/~jm_claus/jsmol/j2s/J/">Parent Directory</A>        14-Jan-2014 14:04      -  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Vibration.js">Vibration.js</A>            14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Txt.js">Txt.js</A>                  14-Jan-2014 14:00    10k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="TriangleData.js">TriangleData.js</A>         14-Jan-2014 14:00    13k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Tensor.js">Tensor.js</A>               14-Jan-2014 14:00    12k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="TempArray.js">TempArray.js</A>            14-Jan-2014 14:00     4k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="SimpleUnitCell.js">SimpleUnitCell.js</A>       14-Jan-2014 14:00     7k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Shader.js">Shader.js</A>               14-Jan-2014 14:00    11k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Rgb16.js">Rgb16.js</A>                14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Rectangle.js">Rectangle.js</A>            14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Quaternion.js">Quaternion.js</A>           14-Jan-2014 14:00    14k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Point3fi.js">Point3fi.js</A>             14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="PatternMatcher.js">PatternMatcher.js</A>       14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Parser.js">Parser.js</A>               14-Jan-2014 14:00     5k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Normix.js">Normix.js</A>               14-Jan-2014 14:00     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ModulationSet.js">ModulationSet.js</A>        14-Jan-2014 14:00     5k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="MeshSurface.js">MeshSurface.js</A>          14-Jan-2014 14:00    27k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Modulation.js">Modulation.js</A>           14-Jan-2014 14:00     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Measure.js">Measure.js</A>              14-Jan-2014 14:00    16k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="LoggerInterface.js">LoggerInterface.js</A>      14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Logger.js">Logger.js</A>               14-Jan-2014 14:00     6k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="JmolMolecule.js">JmolMolecule.js</A>         14-Jan-2014 14:00     7k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="JmolNode.js">JmolNode.js</A>             14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="JmolEdge.js">JmolEdge.js</A>             14-Jan-2014 14:00     7k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Int2IntHash.js">Int2IntHash.js</A>          14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Hermite.js">Hermite.js</A>              14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Geodesic.js">Geodesic.js</A>             14-Jan-2014 14:00     8k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="GenericApplet.js">GenericApplet.js</A>        14-Jan-2014 14:00    21k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="GData.js">GData.js</A>                14-Jan-2014 14:00    13k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Escape.js">Escape.js</A>               14-Jan-2014 14:00    17k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Elements.js">Elements.js</A>             14-Jan-2014 14:00    18k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="EigenSort.js">EigenSort.js</A>            14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Eigen.js">Eigen.js</A>                14-Jan-2014 14:00     6k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="DefaultLogger.js">DefaultLogger.js</A>        14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ContactPair.js">ContactPair.js</A>          14-Jan-2014 14:00     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="CommandHistory.js">CommandHistory.js</A>       14-Jan-2014 14:00     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ColorEncoder.js">ColorEncoder.js</A>         14-Jan-2014 14:00    18k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="BSUtil.js">BSUtil.js</A>               14-Jan-2014 14:00     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="C.js">C.js</A>                    14-Jan-2014 14:00     8k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="BoxInfo.js">BoxInfo.js</A>              14-Jan-2014 14:00     8k  
+</PRE><HR>
+<ADDRESS>Apache/1.3.41 Server at www.mit.edu Port 80</ADDRESS>
+</BODY></HTML>

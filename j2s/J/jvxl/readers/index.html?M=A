@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+ <HEAD>
+  <TITLE>Index of /~jm_claus/jsmol/j2s/J/jvxl/readers</TITLE>
+ </HEAD>
+ <BODY>
+<H1>Index of /~jm_claus/jsmol/j2s/J/jvxl/readers</H1>
+<PRE><IMG SRC="/icons/blank.gif" ALT="     "> <A HREF="?N=A">Name</A>                    <A HREF="?M=D">Last modified</A>       <A HREF="?S=A">Size</A>  <A HREF="?D=A">Description</A>
+<HR>
+<IMG SRC="/icons/back.gif" ALT="[DIR]"> <A HREF="/~jm_claus/jsmol/j2s/J/jvxl/">Parent Directory</A>        14-Jan-2014 14:04      -  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ApbsReader.js">ApbsReader.js</A>           14-Jan-2014 14:04     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="AtomDataReader.js">AtomDataReader.js</A>       14-Jan-2014 14:04    16k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="AtomPropertyMapper.js">AtomPropertyMapper.js</A>   14-Jan-2014 14:04     4k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="CastepDensityReader.js">CastepDensityReader.js</A>  14-Jan-2014 14:04     4k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="CubeReader.js">CubeReader.js</A>           14-Jan-2014 14:04     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="DelPhiBinaryReader.js">DelPhiBinaryReader.js</A>   14-Jan-2014 14:04     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Dns6BinaryReader.js">Dns6BinaryReader.js</A>     14-Jan-2014 14:04     5k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="EfvetReader.js">EfvetReader.js</A>          14-Jan-2014 14:05     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoFxyReader.js">IsoFxyReader.js</A>         14-Jan-2014 14:05     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoFxyzReader.js">IsoFxyzReader.js</A>        14-Jan-2014 14:05     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoIntersectReader.js">IsoIntersectReader.js</A>   14-Jan-2014 14:05     5k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoMepReader.js">IsoMepReader.js</A>         14-Jan-2014 14:05     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoMlpReader.js">IsoMlpReader.js</A>         14-Jan-2014 14:05     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoPlaneReader.js">IsoPlaneReader.js</A>       14-Jan-2014 14:05     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoShapeReader.js">IsoShapeReader.js</A>       14-Jan-2014 14:05    15k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoMOReader.js">IsoMOReader.js</A>          14-Jan-2014 14:05    11k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="JaguarReader.js">JaguarReader.js</A>         14-Jan-2014 14:05     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IsoSolventReader.js">IsoSolventReader.js</A>     14-Jan-2014 14:05    24k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="JvxlReader.js">JvxlReader.js</A>           14-Jan-2014 14:05     8k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="JvxlXmlReader.js">JvxlXmlReader.js</A>        14-Jan-2014 14:05    32k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="KinemageReader.js">KinemageReader.js</A>       14-Jan-2014 14:05     5k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="MapFileReader.js">MapFileReader.js</A>        14-Jan-2014 14:05     4k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="MrcBinaryReader.js">MrcBinaryReader.js</A>      14-Jan-2014 14:05     7k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="MsmsReader.js">MsmsReader.js</A>           14-Jan-2014 14:05     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="NffReader.js">NffReader.js</A>            14-Jan-2014 14:05     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ObjReader.js">ObjReader.js</A>            14-Jan-2014 14:05     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Parameters.js">Parameters.js</A>           14-Jan-2014 14:05    19k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="PltFormattedReader.js">PltFormattedReader.js</A>   14-Jan-2014 14:05     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="PmeshReader.js">PmeshReader.js</A>          14-Jan-2014 14:05     6k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="PolygonFileReader.js">PolygonFileReader.js</A>    14-Jan-2014 14:05     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="PyMOLMeshReader.js">PyMOLMeshReader.js</A>      14-Jan-2014 14:05     6k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="SurfaceFileReader.js">SurfaceFileReader.js</A>    14-Jan-2014 14:05     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="SurfaceGenerator.js">SurfaceGenerator.js</A>     14-Jan-2014 14:05    31k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="SurfaceReader.js">SurfaceReader.js</A>        14-Jan-2014 14:05    28k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="UhbdReader.js">UhbdReader.js</A>           14-Jan-2014 14:05     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="VolumeDataReader.js">VolumeDataReader.js</A>     14-Jan-2014 14:05     6k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="VolumeFileReader.js">VolumeFileReader.js</A>     14-Jan-2014 14:05    15k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="XmlReader.js">XmlReader.js</A>            14-Jan-2014 14:05     4k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="XplorReader.js">XplorReader.js</A>          14-Jan-2014 14:05     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="XsfReader.js">XsfReader.js</A>            14-Jan-2014 14:05     3k  
+</PRE><HR>
+<ADDRESS>Apache/1.3.41 Server at www.mit.edu Port 80</ADDRESS>
+</BODY></HTML>

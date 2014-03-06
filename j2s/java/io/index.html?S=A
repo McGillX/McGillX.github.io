@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+ <HEAD>
+  <TITLE>Index of /~jm_claus/jsmol/j2s/java/io</TITLE>
+ </HEAD>
+ <BODY>
+<H1>Index of /~jm_claus/jsmol/j2s/java/io</H1>
+<PRE><IMG SRC="/icons/blank.gif" ALT="     "> <A HREF="?N=A">Name</A>                    <A HREF="?M=A">Last modified</A>       <A HREF="?S=D">Size</A>  <A HREF="?D=A">Description</A>
+<HR>
+<IMG SRC="/icons/back.gif" ALT="[DIR]"> <A HREF="/~jm_claus/jsmol/j2s/java/">Parent Directory</A>        14-Jan-2014 14:01      -  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Closeable.js">Closeable.js</A>            14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Flushable.js">Flushable.js</A>            14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Serializable.js">Serializable.js</A>         14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="DataInput.js">DataInput.js</A>            14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="DataOutput.js">DataOutput.js</A>           14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Externalizable.js">Externalizable.js</A>       14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="IOException.js">IOException.js</A>          14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="EOFException.js">EOFException.js</A>         14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="SyncFailedException.js">SyncFailedException.js</A>  14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="FileNotFoundException.js">FileNotFoundExceptio..&gt;</A> 14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ObjectStreamException.js">ObjectStreamExceptio..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="UTFDataFormatException.js">UTFDataFormatExcepti..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="CharConversionException.js">CharConversionExcept..&gt;</A> 14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="NotActiveException.js">NotActiveException.js</A>   14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="UnsupportedEncodingException.js">UnsupportedEncodingE..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="InvalidObjectException.js">InvalidObjectExcepti..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="NotSerializableException.js">NotSerializableExcep..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="StreamCorruptedException.js">StreamCorruptedExcep..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="InterruptedIOException.js">InterruptedIOExcepti..&gt;</A> 14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="OptionalDataException.js">OptionalDataExceptio..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="InvalidClassException.js">InvalidClassExceptio..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="WriteAbortedException.js">WriteAbortedExceptio..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="OutputStream.js">OutputStream.js</A>         14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="FilterOutputStream.js">FilterOutputStream.js</A>   14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="FilterInputStream.js">FilterInputStream.js</A>    14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Reader.js">Reader.js</A>               14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="FileInputStream.js">FileInputStream.js</A>      14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="FileOutputStream.js">FileOutputStream.js</A>     14-Jan-2014 14:00     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="StringBufferInputStream.js">StringBufferInputStr..&gt;</A> 14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="Writer.js">Writer.js</A>               14-Jan-2014 14:01     1k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="InputStream.js">InputStream.js</A>          14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ByteArrayInputStream.js">ByteArrayInputStream.js</A> 14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="StringWriter.js">StringWriter.js</A>         14-Jan-2014 14:01     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="BufferedOutputStream.js">BufferedOutputStream.js</A> 14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="StringReader.js">StringReader.js</A>         14-Jan-2014 14:01     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="SequenceInputStream.js">SequenceInputStream.js</A>  14-Jan-2014 14:01     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="CharArrayReader.js">CharArrayReader.js</A>      14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="InputStreamReader.js">InputStreamReader.js</A>    14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ByteArrayOutputStream.js">ByteArrayOutputStrea..&gt;</A> 14-Jan-2014 14:00     2k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="CharArrayWriter.js">CharArrayWriter.js</A>      14-Jan-2014 14:00     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="PushbackInputStream.js">PushbackInputStream.js</A>  14-Jan-2014 14:01     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="BufferedWriter.js">BufferedWriter.js</A>       14-Jan-2014 14:00     3k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="BufferedInputStream.js">BufferedInputStream.js</A>  14-Jan-2014 14:00     4k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="ObjectStreamField.js">ObjectStreamField.js</A>    14-Jan-2014 14:01     4k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="BufferedReader.js">BufferedReader.js</A>       14-Jan-2014 14:00     6k  
+<IMG SRC="/icons/unknown.gif" ALT="[   ]"> <A HREF="DataInputStream.js">DataInputStream.js</A>      14-Jan-2014 14:00     6k  
+</PRE><HR>
+<ADDRESS>Apache/1.3.41 Server at www.mit.edu Port 80</ADDRESS>
+</BODY></HTML>

@@ -92,9 +92,9 @@
 ){
 var $t$;
 //var c$;
-___JmolDate="$Date: 2013-12-14 11:44:58 -0600 (Sat, 14 Dec 2013) $"
+___JmolDate="$Date: 2013-12-14 11:53:49 -0600 (Sat, 14 Dec 2013) $"
 ___fullJmolProperties="src/org/jmol/viewer/Jmol.properties"
-___JmolVersion="14.0.2"
+___JmolVersion="14.1.2"
 // JSmolJavaExt.js
 // will be wrapped by anonymous function using ANT in build_03_tojs.xml
 
