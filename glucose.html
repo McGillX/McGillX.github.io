@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<title>JSMol Demo: b-glucose</title>
+<head>
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/JSmolCore.js"></script>
+<script type="text/javascript" src="js/JSmolApplet.js"></script>
+<script type="text/javascript" src="js/JSmolApi.js"></script>
+<script type="text/javascript" src="js/j2sjmol.js"></script>
+<script type="text/javascript" src="js/JSmol.js"></script>
+<script type="text/javascript">
+(function() {
+
+	var	Info = {
+			width: 500,
+			height: 500,
+			addSelectionOptions: false,
+			disableJ2SLoadMonitor: true,
+			disableInitialConsole: true,
+			script: "set antialiasDisplay; background black; load data/BetaGlucose.mol;"
+		},
+
+    	jmolApplet = Jmol.getApplet("jsmolApplet", Info);
+
+})();
+</script>
+</head>
+<body>
+</body>
+</html>
